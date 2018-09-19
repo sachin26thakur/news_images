@@ -1,0 +1,104 @@
+{
+	"tests":[
+		{
+			"name" : "Blood count",
+			"price" : 300,
+			"details" : "Blood count, laboratory test that determines the number of red blood cells (erythrocytes) and white blood cells (leukocytes) in a given volume of blood. ",
+			"rating" : 5,
+			"image" : "https://logopond.com/logos/dc5cc8314658dcbce4536affc4772f78.png"
+		},
+		{
+			"name" : "Bone marrow aspiration",
+			"price" : 350,
+			"details" : "Bone marrow aspiration, direct removal of a small amount (about 1–5 millilitres) of bone marrow by suction through a hollow needle.",
+			"rating" : 6,
+			"image" : "http://modelsgoa.com/wp-content/uploads/2017/05/happy-dummy-logos.png"
+		},
+		{
+			"name" : "Kidney function test",
+			"price" : 400,
+			"details" : "Kidney function test, any clinical and laboratory procedure designed to evaluate various aspects of renal (kidney) capacity and efficiency and to aid in the diagnosis of kidney disorders. ",
+			"rating" : 3,
+			"image" : "https://www.logoground.com/uploads/201658352016-01-214991427dental-association-logo.jpg"
+		},
+		{
+			"name" : "Gastric fluid analysis",
+			"price" : 450,
+			"details" : "Gastric fluid analysis, medical procedure used to examine the secretions and other liquid substances occurring in the stomach.",
+			"rating" : 6,
+			"image" : "http://2.bp.blogspot.com/-Y2XrnrXJmXs/Uf5Y_bfr4jI/AAAAAAAAALk/ydouC9lEmDE/s1600/Logogap+Logobb.jpg"
+		},
+		{
+			"name" : "Thyroid function test",
+			"price" : 399,
+			"details" : "Thyroid function test, any laboratory procedure that assesses the production of the two active thyroid hormones, thyroxine (T4) and triiodothyronine (T3), by the thyroid gland and the production of thyrotropin (thyroid-stimulating hormone, TSH), the hormone that regulates thyroid secretion, by the pituitary gland.",
+			"rating" : 1,
+			"image" : "http://www.logologo.com/logos/spinning-letter-s-logo.jpg"
+		},
+		{
+			"name" : "Urinalysis",
+			"price" : 500,
+			"details" : "Urinalysis, laboratory examination of a sample of urine to obtain clinical information. ",
+			"rating" : 8,
+			"image" : "https://images.cdn1.stockunlimited.net/clipart/abstract-logo-element_1818107.jpg"
+		},
+		{
+			"name" : "Ultrasound",
+			"price" : 460,
+			"details" : "Ultrasound, also called ultrasonography, in medicine, the use of high-frequency sound (ultrasonic) waves to produce images of structures within the human body. ",
+			"rating" : 9,
+			"image" : "http://www.logologo.com/logos/abstract-b-logo.jpg"
+		},
+		{
+			"name" : "Nerve Conduction Velocity Test (NCV)",
+			"price" : 550,
+			"details" : "A nerve conduction velocity test (NCV) is an electrical test that is used to determine the adequacy of the conduction of the nerve impulse as it courses down a nerve. ",
+			"rating" : 10,
+			"image" : "https://kaitwilsonpr.files.wordpress.com/2015/02/screen-shot-2015-02-15-at-11-16-07-pm.png?w=648"
+		},
+		{
+			"name" : "Electrocardiogram",
+			"price" : 299,
+			"details" : "The electrocardiogram (ECG or EKG) is a noninvasive test that is used to reflect underlying heart conditions by measuring the electrical activity of the heart.",
+			"rating" : 5,
+			"image" : "http://imdeepak.com/Portfolio/LOGOS/Small/2.jpg"
+		},
+		{
+			"name" : "Complete Blood Count ",
+			"price" : 600,
+			"details" : "The complete blood count is the calculation of the cellular (formed elements) of blood. These calculations are generally determined by special machines that analyze the different components of blood in less than a minute.",
+			"rating" : 6,
+			"image" : "https://cdn2.f-cdn.com/contestentries/1056281/25365820/5954b5f89918f_thumb900.jpg"
+		},
+		{
+			"name" : "Full-body CT scan",
+			"price" : 5000,
+			"details" : "Full-body computed-tomography (CT) scans, which can cost $100, have been touted as a way to detect early signs of cancer and heart disease. But if you're healthy, they're of no proven benefit.",
+			"rating" : 5,
+			"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVf94HjnsRhAFeWJULFczT3Tp3VCU-NTm62x7KRcDlMIdzxO2"
+		},
+		{
+			"name" : "Blood pressure check",
+			"price" : 3500,
+			"details" : "One in three adults in the U.S. has high blood pressure, a leading cause of heart attack, heart failure, stroke, kidney trouble, and vision loss.",
+			"rating" : 8,
+			"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnoYRXEseowaJnBdubY4CuXHSfFop7lfl9j-MvMFyuRqV3ubue"
+		},
+		{
+			"name" : "Cholesterol testing",
+			"price" : 240,
+			"details" : "It's no secret that cholesterol that builds up in the blood vessels of the heart can trigger a heart attack - and the higher your level of low-density lipoprotein (LDL) cholesterol, the greater your risk.",
+			"rating" : 9,
+			"image" : "https://elements-cover-images-0.imgix.net/7b90582a-48b4-4e18-b572-f594c7332611?w=710&fit=max&auto=compress%2Cformat&s=2469dcfbaaefbae123047a398fa3bed5"
+		},
+		{
+			"name" : "Radiation Therapy",
+			"price" : 699,
+			"details" : "In radiation therapy (also called radiotherapy), invisible high-energy rays or beams of subatomic particles are used to damage cancer cells and can stop them from growing and dividing.",
+			"rating" : 10,
+			"image" : "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0003/0858/brand.gif?itok=YK7LUsO_"
+		},
+		
+
+	]
+}
